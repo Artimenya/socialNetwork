@@ -1,0 +1,17 @@
+.header .img
+{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-image: url("https://i.pinimg.com/736x/33/b8/69/33b869f90619e81763dbf1fccc896d8d--lion-logo-modern-logo.jpg");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.header
+{
+    grid-area: h;
+    background-color: #e63f5b;
+}
+

@@ -1,0 +1,30 @@
+
+.content
+{
+    grid-area: c;
+    background-color: cornsilk;
+    background-size: 100% ;
+    background-position: top;
+
+}
+.wrapper {
+
+    /*display: grid;*/
+    /*grid-template-columns: repeat(2, 1fr);*/
+    /*grid-template-rows: repeat(2, 100px);*/
+    margin-left: 50px;
+    font: common-ligatures;
+
+}
+
+.item
+{
+color: black;
+
+}
+
+.textitem
+{
+
+    margin-top: auto;
+}

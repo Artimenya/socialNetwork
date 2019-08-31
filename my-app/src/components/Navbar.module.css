@@ -1,0 +1,22 @@
+.nav
+{
+    grid-area: n;
+    background-color: #ffd27c;
+
+}
+.item {
+     color: white;
+     padding: 5%;
+     font: menu;
+     font-size: 20px;
+     /*margin-top: 20px;*/
+    display: flex;
+    align-items: center;
+ }
+.item a {
+    margin-left: 5%;
+}
+.item:hover{
+    background-color: darkgrey;
+    color: cornsilk;
+}
