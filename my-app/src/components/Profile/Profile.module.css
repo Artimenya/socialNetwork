@@ -1,0 +1,17 @@
+
+.content
+{
+    grid-area: c;
+    background-color: cornsilk;
+
+}
+
+
+.img
+{
+    width:100%;
+    height:250px;
+    background-position: center;
+    /*background-image: url(https://stfalcon.com/uploads/images/5881e0b98e717.png);*/
+    background-image: url("https://wpkixx.com/html/winku/images/resources/timeline-1.jpg");
+}
